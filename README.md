@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Chat App 💬
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my solution to [Tagview TagChatter challenge](https://github.com/tagview/tagchatter).
+
+> This is a challenge by [Tagview](https://www.tagview.com.br/)
 
 ## Available Scripts
 
